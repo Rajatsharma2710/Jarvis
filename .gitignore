@@ -1,0 +1,21 @@
+# Dependencies — kabhi upload mat karo (bahut bada hai ~300MB)
+node_modules/
+
+# Build output — Vercel khud build karta hai
+.next/
+out/
+build/
+
+# API Keys — KABHI KABHI UPLOAD MAT KARO !!!
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# Editor settings
+.vscode/
+.idea/
